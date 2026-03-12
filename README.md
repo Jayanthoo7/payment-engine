@@ -36,6 +36,3 @@ payment-engine/
 └── main.py          # Application entry point & service integration
 
 
-<img width="1440" height="900" alt="Screenshot 2026-03-12 at 14 32 01" src="https://github.com/user-attachments/assets/a4bcd80a-7e19-49d8-8eb6-de3390f840c6" />
-
-<img width="1440" height="900" alt="Screenshot 2026-03-12 at 14 32 10" src="https://github.com/user-attachments/assets/b2bbbb81-6116-49c9-9ff7-f34bc4b0f1f1" />
